@@ -1,0 +1,15 @@
+{
+    "name": "finn.waege/bownling-katav2",
+    "autoload": {
+        "psr-4": {
+            "Kata\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "finn.waege",
+            "email": "finn90@schule.bremen.de"
+        }
+    ],
+    "require": {}
+}
